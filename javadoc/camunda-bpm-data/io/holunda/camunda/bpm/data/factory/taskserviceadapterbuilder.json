@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "path": "javadoc/camunda-bpm-data",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "io/holunda/camunda/bpm/data/factory/taskserviceadapterbuilder",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/taskserviceadapterbuilder"
+  },
+  "data": {},
+  "description": "",
+  "title": "TaskServiceAdapterBuilder",
+  "content": "<p>CommentComponent(kind=Text, text=Creates a builder to encapsulate the task service access., value=)<\/p>\n"
+}

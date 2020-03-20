@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "path": "javadoc/camunda-bpm-data",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "io/holunda/camunda/bpm/data/factory/mapvariablefactory",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/mapvariablefactory"
+  },
+  "data": {},
+  "description": "",
+  "title": "MapVariableFactory",
+  "content": "<p>CommentComponent(kind=Text, text=Variable factory of a base parametrized map type., value=)<\/p>\n"
+}

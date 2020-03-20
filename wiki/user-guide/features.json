@@ -1,0 +1,30 @@
+{
+  "reference": {
+    "path": "wiki/user-guide",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "features",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/wiki/user-guide/features"
+  },
+  "next": {
+    "path": "wiki/user-guide",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "examples",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/wiki/user-guide/examples"
+  },
+  "previous": {
+    "path": "wiki/user-guide",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "motivation",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/wiki/user-guide/motivation"
+  },
+  "data": {"title": "Features"},
+  "description": "",
+  "title": "Features",
+  "content": "<div class=\"sect1\">\n<h2 id=\"_features\">Features<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>The library Camunda BPM Data provides the following functionality:<\/p>\n<\/div>\n<div class=\"ulist\">\n<ul>\n<li>\n<p>The library provides a way to construct generic adapter for every process variable.<\/p>\n<\/li>\n<li>\n<p>The adapter contains variable name.<\/p>\n<\/li>\n<li>\n<p>The adapter contains variable type.<\/p>\n<\/li>\n<li>\n<p>The adapter can be applied in any context (<code>RuntimeService<\/code>, <code>TaskService<\/code>, <code>DelegateExecution<\/code>, <code>DelegateTask<\/code>, <code>VariableMap<\/code>).<\/p>\n<\/li>\n<li>\n<p>The adapter offers methods to read, write, update and remove variable values.<\/p>\n<\/li>\n<li>\n<p>The adapter works for all types supported by Camunda BPM. This includes primitive types, object and container types ( <code>List&lt;T&gt;<\/code>, <code>Set&lt;T&gt;<\/code>, <code>Map&lt;K , V&gt;<\/code> ).<\/p>\n<\/li>\n<li>\n<p>The adapter supports global / local variables.<\/p>\n<\/li>\n<li>\n<p>The adapter support transient variables.<\/p>\n<\/li>\n<li>\n<p>Fluent builders are available in order to set, remove or update multiple variables in the same context.<\/p>\n<\/li>\n<\/ul>\n<\/div>\n<\/div>\n<\/div>"
+}

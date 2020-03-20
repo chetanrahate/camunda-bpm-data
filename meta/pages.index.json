@@ -1,0 +1,69 @@
+{
+  "ownKey": "pages",
+  "childrenPages": {
+    "license": {
+      "ownKey": "license",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+          "fileName": "license",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://www.holunda.io/camunda-bpm-data/license"
+        },
+        "description": "",
+        "title": "License",
+        "content": ""
+      }]
+    },
+    "changelog": {
+      "ownKey": "changelog",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+          "fileName": "changelog",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://www.holunda.io/camunda-bpm-data/changelog"
+        },
+        "description": "",
+        "title": "Changelog",
+        "content": ""
+      }]
+    },
+    "quick-start": {
+      "ownKey": "quick-start",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+          "fileName": "quick-start",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://www.holunda.io/camunda-bpm-data/quick-start"
+        },
+        "description": "",
+        "title": "Quick Start",
+        "content": "<div class=\"sect1\">\n<h2 id=\"_quick_start\">Quick Start<\/h2>\n<div class=\"sectionbody\">\n<div class=\"sect2\">\n<h3 id=\"_add_dependency\">Add dependency<\/h3>\n<div class=\"paragraph\">\n<p>In Apache Maven add to your <code>pom.xml<\/code>:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-xml\" data-lang=\"xml\">&lt;dependency&gt;\n  &lt;groupId&gt;io.holunda.data&lt;/groupId&gt;\n  &lt;artifactId&gt;camunda-bpm-data&lt;/artifactId&gt;\n  &lt;version&gt;0.0.2&lt;/version&gt;\n&lt;/dependency&gt;<\/code><\/pre>\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>For Gradle Kotlin DSL add to your <code>build.gradle<\/code>:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-kotlin\" data-lang=\"kotlin\">implementation(\"io.holunda.data:camunda-bpm-data:0.0.2\")<\/code><\/pre>\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>For Gradle Groovy DSL add to your <code>build.gradle<\/code>:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-groovy\" data-lang=\"groovy\">implementation 'io.holunda.data:camunda-bpm-data:0.0.2'<\/code><\/pre>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect2\">\n<h3 id=\"_declare_process_variable_factories\">Declare process variable factories<\/h3>\n<div class=\"paragraph\">\n<p>First you have to define your process variables, by providing the variable name and type. For providing the type,\ndifferent convenience methods exist:<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>Here is a example in Java:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-java\" data-lang=\"java\">import io.holunda.camunda.bpm.data.factory.VariableFactory;\nimport static io.holunda.camunda.bpm.data.CamundaBpmData.*;\n\npublic class OrderApproval {\n  public static final VariableFactory&lt;String&gt; ORDER_ID = stringVariable(\"orderId\");\n  public static final VariableFactory&lt;Order&gt; ORDER = customVariable(\"order\", Order.class);\n  public static final VariableFactory&lt;Boolean&gt; ORDER_APPROVED = booleanVariable(\"orderApproved\");\n  public static final VariableFactory&lt;OrderPosition&gt; ORDER_POSITION = customVariable(\"orderPosition\", OrderPosition.class);\n  public static final VariableFactory&lt;BigDecimal&gt; ORDER_TOTAL = customVariable(\"orderTotal\", BigDecimal.class);\n}<\/code><\/pre>\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>Here is how it looks like in Kotlin, using Java library:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-kotlin\" data-lang=\"kotlin\">import io.holunda.camunda.bpm.data.CamundaBpmData.*\n\nobject Variables {\n  val ORDER_ID = stringVariable(\"orderId\")\n  val ORDER = customVariable(\"order\", Order::class.java)\n  val ORDER_APPROVED = booleanVariable(\"orderApproved\")\n  val ORDER_POSITION = customVariable(\"orderPosition\", OrderPosition::class.java)\n  val ORDER_TOTAL = customVariable(\"orderTotal\", BigDecimal::class.java)\n}<\/code><\/pre>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect2\">\n<h3 id=\"_access_process_variables\">Access process variables<\/h3>\n<div class=\"paragraph\">\n<p>If you want to access the process variable, call methods on the <code>ProcessVariableFactory<\/code> to configure the usage context,\nand then invoke the variable access methods.<\/p>\n<\/div>\n<div class=\"paragraph\">\n<p>Here is an example, how it looks like to access variable from <code>JavaDelegate<\/code> implemented in Java. In this example,\nthe total amount is calculated from the amounts of order positions and stored in the process variable.<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-java\" data-lang=\"java\">@Configuration\nclass JavaDelegates {\n\n  @Bean\n  public JavaDelegate calculateOrderPositions() {\n    return execution -&gt; {\n      OrderPosition orderPosition = ORDER_POSITION.from(execution).get();\n      BigDecimal oldTotal = ORDER_TOTAL.from(execution).getOptional().orElse(BigDecimal.ZERO);\n      BigDecimal newTotal = oldTotal.add(orderPosition.getNetCost().multiply(BigDecimal.valueOf(orderPosition.getAmount())));\n      ORDER_TOTAL.on(execution).setLocal(newTotal);\n    };\n  }\n}<\/code><\/pre>\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>The following example demonstrates usage in the context of <code>ExecutionListener<\/code> implemented in Kotlin, which is\nreading a local variable and writes a global one:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-kotlin\" data-lang=\"kotlin\">@Configuration\nclass ExecutionListeners {\n\n  @Bean\n  fun writeOrderTotal() = ExecutionListener { execution -&gt;\n    val total = ORDER_TOTAL.from(execution).local\n    ORDER_TOTAL.on(execution).set(total)\n  }\n}<\/code><\/pre>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>"
+      }]
+    },
+    "readme": {
+      "ownKey": "readme",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+          "fileName": "readme",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://www.holunda.io/camunda-bpm-data/readme"
+        },
+        "description": "",
+        "title": "Readme",
+        "content": ""
+      }]
+    }
+  }
+}

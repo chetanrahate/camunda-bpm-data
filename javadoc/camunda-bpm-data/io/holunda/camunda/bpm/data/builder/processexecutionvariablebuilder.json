@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "path": "javadoc/camunda-bpm-data",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "io/holunda/camunda/bpm/data/builder/processexecutionvariablebuilder",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/processexecutionvariablebuilder"
+  },
+  "data": {},
+  "description": "",
+  "title": "ProcessExecutionVariableBuilder",
+  "content": "<p>CommentComponent(kind=Text, text=Process execution builder allowing for fluent variable setting., value=)<\/p>\n"
+}

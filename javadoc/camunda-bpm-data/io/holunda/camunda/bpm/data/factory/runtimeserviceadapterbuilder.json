@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "path": "javadoc/camunda-bpm-data",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "io/holunda/camunda/bpm/data/factory/runtimeserviceadapterbuilder",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/runtimeserviceadapterbuilder"
+  },
+  "data": {},
+  "description": "",
+  "title": "RuntimeServiceAdapterBuilder",
+  "content": "<p>CommentComponent(kind=Text, text=Creates a builder to encapsulate the runtime service access., value=)<\/p>\n"
+}

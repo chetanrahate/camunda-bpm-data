@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "path": "javadoc/camunda-bpm-data",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "io/holunda/camunda/bpm/data/builder/variablescopebuilder",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/variablescopebuilder"
+  },
+  "data": {},
+  "description": "",
+  "title": "VariableScopeBuilder",
+  "content": "<p>CommentComponent(kind=Text, text=Variable scope builder allowing for fluent variable setting., value=)<\/p>\n"
+}

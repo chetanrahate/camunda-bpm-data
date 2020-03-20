@@ -1,0 +1,22 @@
+{
+  "reference": {
+    "path": "wiki/user-guide",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "motivation",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/wiki/user-guide/motivation"
+  },
+  "next": {
+    "path": "wiki/user-guide",
+    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+    "fileName": "features",
+    "extension": "html",
+    "usePrettyUrl": true,
+    "link": "https://www.holunda.io/camunda-bpm-data/wiki/user-guide/features"
+  },
+  "data": {"title": "Motivation"},
+  "description": "",
+  "title": "Motivation",
+  "content": "<div class=\"sect1\">\n<h2 id=\"_motivation\">Motivation<\/h2>\n<div class=\"sectionbody\">\n<div class=\"sect2\">\n<h3 id=\"_typed_access_to_process_variables\">Typed access to process variables<\/h3>\n<div class=\"paragraph\">\n<p>Camunda BPM engine provide Java API to access the process variables.\nThis consists of:<\/p>\n<\/div>\n<div class=\"ulist\">\n<ul>\n<li>\n<p><code>RuntimeService<\/code> methods<\/p>\n<\/li>\n<li>\n<p><code>TaskService<\/code> methods<\/p>\n<\/li>\n<li>\n<p>Methods on <code>DelegateExecution<\/code><\/p>\n<\/li>\n<li>\n<p>Methods on <code>DelegateTask<\/code><\/p>\n<\/li>\n<li>\n<p><code>VariableMap<\/code><\/p>\n<\/li>\n<\/ul>\n<\/div>\n<div class=\"paragraph\">\n<p>All those methods requires the user of the API to know the variable type.\nHere is a usage example:<\/p>\n<\/div>\n<div class=\"listingblock\">\n<div class=\"content\">\n<pre class=\"highlight\"><code class=\"language-java\" data-lang=\"java\">List&lt;OrderPosition&gt; orderPositions = (List&lt;OrderPosition&gt;) runtimeService\n  .getVariable(\"myExecutionIn\", \"orderPositions\");<\/code><\/pre>\n<\/div>\n<\/div>\n<div class=\"paragraph\">\n<p>This leads to problems during refactoring and makes variable access more complicated than it is.\nMore details can be found in:<\/p>\n<\/div>\n<div class=\"ulist\">\n<ul>\n<li>\n<p><a href=\"https://medium.com/holisticon-consultants/data-in-process-part-1-2620bf9abd76\">Data in Process (Part 1)<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https://medium.com/holisticon-consultants/data-in-process-part-2-7c6a109e6ee2\">Data in Process (Part 2)<\/a><\/p>\n<\/li>\n<\/ul>\n<\/div>\n<div class=\"paragraph\">\n<p>This library addresses this issue and allows for more convenient type-safe process variable access.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<\/div>"
+}

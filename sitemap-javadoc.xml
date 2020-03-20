@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/runtimeserviceadapterbuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/basicvariablefactory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/setvariablefactory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/variablefactory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/taskserviceadapterbuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/mapvariablefactory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/listvariablefactory</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/variablescopebuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/usertaskvariablebuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/variablemapbuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/processexecutionvariablebuilder</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablescope</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablemap</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadapterruntimeservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/abstractlistreadwriteadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptertaskservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptertaskservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablemap</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadapterruntimeservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/abstractbasicreadwriteadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablescope</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablemap</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/abstractsetreadwriteadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadapterruntimeservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablescope</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptertaskservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablemap</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/abstractmapreadwriteadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablescope</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptertaskservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadapterruntimeservice</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/abstractreadwriteadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/wrongvariabletypeexception</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/variablenotfoundexception</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/writeadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/readadapter</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/valuewrapperutil</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/camundabpmdata</loc>
+        <lastmod>2020-03-20</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>

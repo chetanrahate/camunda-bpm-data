@@ -1,0 +1,786 @@
+{
+  "ownKey": "javadoc",
+  "childrenPages": {"javadoc": {
+    "ownKey": "javadoc",
+    "childrenPages": {"camunda-bpm-data": {
+      "ownKey": "camunda-bpm-data",
+      "childrenPages": {"io": {
+        "ownKey": "io",
+        "childrenPages": {"holunda": {
+          "ownKey": "holunda",
+          "childrenPages": {"camunda": {
+            "ownKey": "camunda",
+            "childrenPages": {"bpm": {
+              "ownKey": "bpm",
+              "childrenPages": {"data": {
+                "ownKey": "data",
+                "childrenPages": {
+                  "factory": {
+                    "ownKey": "factory",
+                    "childrenPages": {
+                      "setvariablefactory": {
+                        "ownKey": "setvariablefactory",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/setvariablefactory",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/setvariablefactory"
+                          },
+                          "description": "",
+                          "title": "SetVariableFactory",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable factory of a base parametrized set type., value=)<\/p>\n"
+                        }]
+                      },
+                      "mapvariablefactory": {
+                        "ownKey": "mapvariablefactory",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/mapvariablefactory",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/mapvariablefactory"
+                          },
+                          "description": "",
+                          "title": "MapVariableFactory",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable factory of a base parametrized map type., value=)<\/p>\n"
+                        }]
+                      },
+                      "listvariablefactory": {
+                        "ownKey": "listvariablefactory",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/listvariablefactory",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/listvariablefactory"
+                          },
+                          "description": "",
+                          "title": "ListVariableFactory",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable factory of a base parametrized list type., value=)<\/p>\n"
+                        }]
+                      },
+                      "basicvariablefactory": {
+                        "ownKey": "basicvariablefactory",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/basicvariablefactory",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/basicvariablefactory"
+                          },
+                          "description": "",
+                          "title": "BasicVariableFactory",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable factory of a base type(non parametrized)., value=)<\/p>\n"
+                        }]
+                      },
+                      "variablefactory": {
+                        "ownKey": "variablefactory",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/variablefactory",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/variablefactory"
+                          },
+                          "description": "",
+                          "title": "VariableFactory",
+                          "content": "<p>CommentComponent(kind=Text, text=Typed variable factory., value=)<\/p>\n"
+                        }]
+                      },
+                      "runtimeserviceadapterbuilder": {
+                        "ownKey": "runtimeserviceadapterbuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/runtimeserviceadapterbuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/runtimeserviceadapterbuilder"
+                          },
+                          "description": "",
+                          "title": "RuntimeServiceAdapterBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=Creates a builder to encapsulate the runtime service access., value=)<\/p>\n"
+                        }]
+                      },
+                      "taskserviceadapterbuilder": {
+                        "ownKey": "taskserviceadapterbuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/factory/taskserviceadapterbuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory/taskserviceadapterbuilder"
+                          },
+                          "description": "",
+                          "title": "TaskServiceAdapterBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=Creates a builder to encapsulate the task service access., value=)<\/p>\n"
+                        }]
+                      }
+                    },
+                    "ownPages": [{
+                      "reference": {
+                        "path": "javadoc/camunda-bpm-data",
+                        "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                        "fileName": "io/holunda/camunda/bpm/data/factory",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/factory"
+                      },
+                      "description": "",
+                      "title": "io.holunda.camunda.bpm.data.factory",
+                      "content": "<p>CommentComponent(kind=Text, text=Process Variable Factories are used to define process variables., value=)<\/p>\n"
+                    }]
+                  },
+                  "adapter": {
+                    "ownKey": "adapter",
+                    "childrenPages": {
+                      "writeadapter": {
+                        "ownKey": "writeadapter",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/writeadapter",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/writeadapter"
+                          },
+                          "description": "",
+                          "title": "WriteAdapter",
+                          "content": "<p>CommentComponent(kind=Text, text=Write adapter to write values., value=)<\/p>\n"
+                        }]
+                      },
+                      "wrongvariabletypeexception": {
+                        "ownKey": "wrongvariabletypeexception",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/wrongvariabletypeexception",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/wrongvariabletypeexception"
+                          },
+                          "description": "",
+                          "title": "WrongVariableTypeException",
+                          "content": "<p>CommentComponent(kind=Text, text=Exception indicating that a variable has a different type than requested., value=)<\/p>\n"
+                        }]
+                      },
+                      "set": {
+                        "ownKey": "set",
+                        "childrenPages": {
+                          "setreadwriteadaptertaskservice": {
+                            "ownKey": "setreadwriteadaptertaskservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptertaskservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptertaskservice"
+                              },
+                              "description": "",
+                              "title": "SetReadWriteAdapterTaskService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for task service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "setreadwriteadaptervariablescope": {
+                            "ownKey": "setreadwriteadaptervariablescope",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablescope",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablescope"
+                              },
+                              "description": "",
+                              "title": "SetReadWriteAdapterVariableScope",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable scope., value=)<\/p>\n"
+                            }]
+                          },
+                          "setreadwriteadaptervariablemap": {
+                            "ownKey": "setreadwriteadaptervariablemap",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablemap",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadaptervariablemap"
+                              },
+                              "description": "",
+                              "title": "SetReadWriteAdapterVariableMap",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable map., value=)<\/p>\n"
+                            }]
+                          },
+                          "setreadwriteadapterruntimeservice": {
+                            "ownKey": "setreadwriteadapterruntimeservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/set/setreadwriteadapterruntimeservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/setreadwriteadapterruntimeservice"
+                              },
+                              "description": "",
+                              "title": "SetReadWriteAdapterRuntimeService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for runtime service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "abstractsetreadwriteadapter": {
+                            "ownKey": "abstractsetreadwriteadapter",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/set/abstractsetreadwriteadapter",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set/abstractsetreadwriteadapter"
+                              },
+                              "description": "",
+                              "title": "AbstractSetReadWriteAdapter",
+                              "content": "<p>CommentComponent(kind=Text, text=Base class for all set type read write adapter., value=)<\/p>\n"
+                            }]
+                          }
+                        },
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/set",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/set"
+                          },
+                          "description": "",
+                          "title": "io.holunda.camunda.bpm.data.adapter.set",
+                          "content": "<p>CommentComponent(kind=Text, text=Read/Write adapters for set variable factory., value=)<\/p>\n"
+                        }]
+                      },
+                      "readadapter": {
+                        "ownKey": "readadapter",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/readadapter",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/readadapter"
+                          },
+                          "description": "",
+                          "title": "ReadAdapter",
+                          "content": "<p>CommentComponent(kind=Text, text=Adapter to read variables., value=)<\/p>\n"
+                        }]
+                      },
+                      "valuewrapperutil": {
+                        "ownKey": "valuewrapperutil",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/valuewrapperutil",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/valuewrapperutil"
+                          },
+                          "description": "",
+                          "title": "ValueWrapperUtil",
+                          "content": "<p>CommentComponent(kind=Text, text=Static util methods., value=)<\/p>\n"
+                        }]
+                      },
+                      "variablenotfoundexception": {
+                        "ownKey": "variablenotfoundexception",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/variablenotfoundexception",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/variablenotfoundexception"
+                          },
+                          "description": "",
+                          "title": "VariableNotFoundException",
+                          "content": "<p>CommentComponent(kind=Text, text=Exception indicating that a variable is not found., value=)<\/p>\n"
+                        }]
+                      },
+                      "list": {
+                        "ownKey": "list",
+                        "childrenPages": {
+                          "listreadwriteadaptertaskservice": {
+                            "ownKey": "listreadwriteadaptertaskservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptertaskservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptertaskservice"
+                              },
+                              "description": "",
+                              "title": "ListReadWriteAdapterTaskService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for task service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "listreadwriteadaptervariablescope": {
+                            "ownKey": "listreadwriteadaptervariablescope",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablescope",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablescope"
+                              },
+                              "description": "",
+                              "title": "ListReadWriteAdapterVariableScope",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable scope., value=)<\/p>\n"
+                            }]
+                          },
+                          "listreadwriteadaptervariablemap": {
+                            "ownKey": "listreadwriteadaptervariablemap",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablemap",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadaptervariablemap"
+                              },
+                              "description": "",
+                              "title": "ListReadWriteAdapterVariableMap",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable map., value=)<\/p>\n"
+                            }]
+                          },
+                          "listreadwriteadapterruntimeservice": {
+                            "ownKey": "listreadwriteadapterruntimeservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/list/listreadwriteadapterruntimeservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/listreadwriteadapterruntimeservice"
+                              },
+                              "description": "",
+                              "title": "ListReadWriteAdapterRuntimeService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for runtime service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "abstractlistreadwriteadapter": {
+                            "ownKey": "abstractlistreadwriteadapter",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/list/abstractlistreadwriteadapter",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list/abstractlistreadwriteadapter"
+                              },
+                              "description": "",
+                              "title": "AbstractListReadWriteAdapter",
+                              "content": "<p>CommentComponent(kind=Text, text=Base class for all list read-write adapter., value=)<\/p>\n"
+                            }]
+                          }
+                        },
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/list",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/list"
+                          },
+                          "description": "",
+                          "title": "io.holunda.camunda.bpm.data.adapter.list",
+                          "content": "<p>CommentComponent(kind=Text, text=Read/Write adapters for list variable factory., value=)<\/p>\n"
+                        }]
+                      },
+                      "basic": {
+                        "ownKey": "basic",
+                        "childrenPages": {
+                          "readwriteadaptertaskservice": {
+                            "ownKey": "readwriteadaptertaskservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptertaskservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptertaskservice"
+                              },
+                              "description": "",
+                              "title": "ReadWriteAdapterTaskService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for task service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "readwriteadapterruntimeservice": {
+                            "ownKey": "readwriteadapterruntimeservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/basic/readwriteadapterruntimeservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadapterruntimeservice"
+                              },
+                              "description": "",
+                              "title": "ReadWriteAdapterRuntimeService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for runtime service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "readwriteadaptervariablescope": {
+                            "ownKey": "readwriteadaptervariablescope",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablescope",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablescope"
+                              },
+                              "description": "",
+                              "title": "ReadWriteAdapterVariableScope",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable scope., value=)<\/p>\n"
+                            }]
+                          },
+                          "readwriteadaptervariablemap": {
+                            "ownKey": "readwriteadaptervariablemap",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablemap",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/readwriteadaptervariablemap"
+                              },
+                              "description": "",
+                              "title": "ReadWriteAdapterVariableMap",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable map., value=)<\/p>\n"
+                            }]
+                          },
+                          "abstractbasicreadwriteadapter": {
+                            "ownKey": "abstractbasicreadwriteadapter",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/basic/abstractbasicreadwriteadapter",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic/abstractbasicreadwriteadapter"
+                              },
+                              "description": "",
+                              "title": "AbstractBasicReadWriteAdapter",
+                              "content": "<p>CommentComponent(kind=Text, text=Base class for all basic read-write-adapter., value=)<\/p>\n"
+                            }]
+                          }
+                        },
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/basic",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/basic"
+                          },
+                          "description": "",
+                          "title": "io.holunda.camunda.bpm.data.adapter.basic",
+                          "content": "<p>CommentComponent(kind=Text, text=Read/Write adapters for basic variable factory., value=)<\/p>\n"
+                        }]
+                      },
+                      "map": {
+                        "ownKey": "map",
+                        "childrenPages": {
+                          "abstractmapreadwriteadapter": {
+                            "ownKey": "abstractmapreadwriteadapter",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/map/abstractmapreadwriteadapter",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/abstractmapreadwriteadapter"
+                              },
+                              "description": "",
+                              "title": "AbstractMapReadWriteAdapter",
+                              "content": "<p>CommentComponent(kind=Text, text=Base class for all map type read write adapter., value=)<\/p>\n"
+                            }]
+                          },
+                          "mapreadwriteadapterruntimeservice": {
+                            "ownKey": "mapreadwriteadapterruntimeservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadapterruntimeservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadapterruntimeservice"
+                              },
+                              "description": "",
+                              "title": "MapReadWriteAdapterRuntimeService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for runtime service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "mapreadwriteadaptervariablescope": {
+                            "ownKey": "mapreadwriteadaptervariablescope",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablescope",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablescope"
+                              },
+                              "description": "",
+                              "title": "MapReadWriteAdapterVariableScope",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable scope., value=)<\/p>\n"
+                            }]
+                          },
+                          "mapreadwriteadaptertaskservice": {
+                            "ownKey": "mapreadwriteadaptertaskservice",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptertaskservice",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptertaskservice"
+                              },
+                              "description": "",
+                              "title": "MapReadWriteAdapterTaskService",
+                              "content": "<p>CommentComponent(kind=Text, text=Read write adapter for task service access., value=)<\/p>\n"
+                            }]
+                          },
+                          "mapreadwriteadaptervariablemap": {
+                            "ownKey": "mapreadwriteadaptervariablemap",
+                            "ownPages": [{
+                              "reference": {
+                                "path": "javadoc/camunda-bpm-data",
+                                "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                                "fileName": "io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablemap",
+                                "extension": "html",
+                                "usePrettyUrl": true,
+                                "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map/mapreadwriteadaptervariablemap"
+                              },
+                              "description": "",
+                              "title": "MapReadWriteAdapterVariableMap",
+                              "content": "<p>CommentComponent(kind=Text, text=Read-write adapter for variable map., value=)<\/p>\n"
+                            }]
+                          }
+                        },
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/map",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/map"
+                          },
+                          "description": "",
+                          "title": "io.holunda.camunda.bpm.data.adapter.map",
+                          "content": "<p>CommentComponent(kind=Text, text=Read/Write adapters for map variable factory., value=)<\/p>\n"
+                        }]
+                      },
+                      "abstractreadwriteadapter": {
+                        "ownKey": "abstractreadwriteadapter",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/adapter/abstractreadwriteadapter",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter/abstractreadwriteadapter"
+                          },
+                          "description": "",
+                          "title": "AbstractReadWriteAdapter",
+                          "content": "<p>CommentComponent(kind=Text, text=Abstract read write adapter., value=)<\/p>\n"
+                        }]
+                      }
+                    },
+                    "ownPages": [{
+                      "reference": {
+                        "path": "javadoc/camunda-bpm-data",
+                        "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                        "fileName": "io/holunda/camunda/bpm/data/adapter",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/adapter"
+                      },
+                      "description": "",
+                      "title": "io.holunda.camunda.bpm.data.adapter",
+                      "content": "<p>CommentComponent(kind=Text, text=Read and Write adapters for different factories to handle different contexts., value=)<\/p>\n"
+                    }]
+                  },
+                  "builder": {
+                    "ownKey": "builder",
+                    "childrenPages": {
+                      "variablescopebuilder": {
+                        "ownKey": "variablescopebuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/builder/variablescopebuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/variablescopebuilder"
+                          },
+                          "description": "",
+                          "title": "VariableScopeBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable scope builder allowing for fluent variable setting., value=)<\/p>\n"
+                        }]
+                      },
+                      "usertaskvariablebuilder": {
+                        "ownKey": "usertaskvariablebuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/builder/usertaskvariablebuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/usertaskvariablebuilder"
+                          },
+                          "description": "",
+                          "title": "UserTaskVariableBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=User task builder allowing for fluent variable setting., value=)<\/p>\n"
+                        }]
+                      },
+                      "processexecutionvariablebuilder": {
+                        "ownKey": "processexecutionvariablebuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/builder/processexecutionvariablebuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/processexecutionvariablebuilder"
+                          },
+                          "description": "",
+                          "title": "ProcessExecutionVariableBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=Process execution builder allowing for fluent variable setting., value=)<\/p>\n"
+                        }]
+                      },
+                      "variablemapbuilder": {
+                        "ownKey": "variablemapbuilder",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "javadoc/camunda-bpm-data",
+                            "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                            "fileName": "io/holunda/camunda/bpm/data/builder/variablemapbuilder",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder/variablemapbuilder"
+                          },
+                          "description": "",
+                          "title": "VariableMapBuilder",
+                          "content": "<p>CommentComponent(kind=Text, text=Variable map builder allowing for fluent variable setting., value=)<\/p>\n"
+                        }]
+                      }
+                    },
+                    "ownPages": [{
+                      "reference": {
+                        "path": "javadoc/camunda-bpm-data",
+                        "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                        "fileName": "io/holunda/camunda/bpm/data/builder",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/builder"
+                      },
+                      "description": "",
+                      "title": "io.holunda.camunda.bpm.data.builder",
+                      "content": "<p>CommentComponent(kind=Text, text=Builder are used to define interact with multiple variables in the same context., value=)<\/p>\n"
+                    }]
+                  },
+                  "camundabpmdata": {
+                    "ownKey": "camundabpmdata",
+                    "ownPages": [{
+                      "reference": {
+                        "path": "javadoc/camunda-bpm-data",
+                        "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                        "fileName": "io/holunda/camunda/bpm/data/camundabpmdata",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data/camundabpmdata"
+                      },
+                      "description": "",
+                      "title": "CamundaBpmData",
+                      "content": "<p>CommentComponent(kind=Text, text=Provides a collection of factory methods for creating variable factories., value=)<\/p>\n"
+                    }]
+                  }
+                },
+                "ownPages": [{
+                  "reference": {
+                    "path": "javadoc/camunda-bpm-data",
+                    "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+                    "fileName": "io/holunda/camunda/bpm/data",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data/io/holunda/camunda/bpm/data"
+                  },
+                  "description": "",
+                  "title": "io.holunda.camunda.bpm.data",
+                  "content": "<p>CommentComponent(kind=Text, text=Top-level package of the library., value=)<\/p>\n"
+                }]
+              }}
+            }}
+          }}
+        }}
+      }},
+      "ownPages": [{
+        "reference": {
+          "path": "javadoc",
+          "baseUrl": "https://www.holunda.io/camunda-bpm-data",
+          "fileName": "camunda-bpm-data",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://www.holunda.io/camunda-bpm-data/javadoc/camunda-bpm-data"
+        },
+        "description": "",
+        "title": "Camunda BPM Data",
+        "content": "<table class=\"tableblock frame-all grid-all stretch\">\n<colgroup>\n<col style=\"width: 16.6666%;\">\n<col style=\"width: 16.6666%;\">\n<col style=\"width: 16.6666%;\">\n<col style=\"width: 16.6666%;\">\n<col style=\"width: 16.6666%;\">\n<col style=\"width: 16.667%;\">\n<\/colgroup>\n<tbody>\n<tr>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://github.com/holunda-io/camunda-bpm-data/actions\"><img src=\"https://github.com/holunda-io/camunda-bpm-data/workflows/default/badge.svg\" alt=\"badge\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://maven-badges.herokuapp.com/maven-central/io.holunda.data/camunda-bpm-data\"><img src=\"https://maven-badges.herokuapp.com/maven-central/io.holunda.data/camunda-bpm-data/badge.svg\" alt=\"badge\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://codecov.io/gh/holunda-io/camunda-bpm-data\"><img src=\"https://codecov.io/gh/holunda-io/camunda-bpm-data/branch/master/graph/badge.svg\" alt=\"badge\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://app.codacy.com/app/zambrovski/camunda-bpm-data?utm_source=github.com&utm_medium=referral&utm_content=holunda-io/camunda-bpm-data&utm_campaign=Badge_Grade_Dashboard\"><img src=\"https://api.codacy.com/project/badge/Grade/653136bd5cad48c8a9f2621ee304ff26\" alt=\"653136bd5cad48c8a9f2621ee304ff26\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://www.holunda.io/camunda-bpm-data/license\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-blue.svg\" alt=\"License Apache%202.0 blue\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<td class=\"tableblock halign-left valign-top\"><div class=\"content\"><div class=\"imageblock\">\n<div class=\"content\">\n<a class=\"image\" href=\"https://www.holunda.io/camunda-bpm-data/changelog\"><img src=\"https://img.shields.io/badge/CHANGES----blue.svg\" alt=\"CHANGES    blue\"><\/a>\n<\/div>\n<\/div><\/div><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<div class=\"sect1\">\n<h2 id=\"_quick_start\">Quick Start<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>If you just want to start using the library, please consult our <a href=\"https://www.holunda.io/camunda-bpm-data/quick-start\">Quick Start<\/a>\nguide.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect1\">\n<h2 id=\"_user_guide\">User Guide<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>If you have any questions regarding configuration of Camunda BPM Data please\nhave a look to our primary documentation - the <a href=\"https://www.holunda.io/camunda-bpm-data/wiki/user-guide\">User Guide<\/a>.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect1\">\n<h2 id=\"_working_example\">Working Example<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>See our <a href=\"https://www.holunda.io/camunda-bpm-data/wiki/user-guide/examples\">Examples<\/a> for usage and configuration.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect1\">\n<h2 id=\"_license\">License<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>This library is developed under <a href=\"https://www.holunda.io/camunda-bpm-data/license\">Apache License 2<\/a>.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect1\">\n<h2 id=\"_contribution\">Contribution<\/h2>\n<div class=\"sectionbody\">\n<div class=\"paragraph\">\n<p>If you want to contribute to this project, feel free to do so. Start with <a href=\"http://holunda.io/camunda-bpm-data/wiki/developer-guide/contribution\">Contributing guide<\/a>.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<div class=\"sect1\">\n<h2 id=\"_maintainer\">Maintainer<\/h2>\n<div class=\"sectionbody\">\n<div class=\"ulist\">\n<ul>\n<li>\n<p><a href=\"https://gihub.com/zambrovski\">Simon Zambrovski<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https://github.com/christian-maschmann\">Christian Maschmann<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https://github.com/jangalinski\">Jan Galinski<\/a><\/p>\n<\/li>\n<\/ul>\n<\/div>\n<\/div>\n<\/div>"
+      }]
+    }}
+  }}
+}
